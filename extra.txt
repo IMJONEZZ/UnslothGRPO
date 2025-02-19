@@ -1,0 +1,5 @@
+#unsloth = { version = ">=2024.8, <2025", extras = ["cu121-torch230"] }
+xformers="<0.0.27"
+#trl = { git = "git+https://github.com/huggingface/trl.git@e95f9fb74a3c3647b86f251b7e230ec51c64b72b" }
+torch ==2.3.0
+torchvision ==0.18.0
