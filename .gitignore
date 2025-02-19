@@ -6,4 +6,4 @@ pixi.lock
 *.pth
 *.pt
 *.safetensors
-tokenizer.*
+tokenizer.*bra
